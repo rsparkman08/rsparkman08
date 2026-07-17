@@ -1,40 +1,32 @@
-# Hi, I'm Ryan Sparkman 👋
+# Ryan Sparkman
 
-I'm a Software Engineer focused on building privacy-first AI systems, modern web applications, and long-term software architecture.
+Software Engineer building privacy-first AI systems, modern web applications, and long-term software architecture.
 
-Currently I'm building **Eyr**, a local-first AI platform designed around one idea:
+---
+
+## What I'm Building
+
+I'm currently building **Eyr**, a local-first AI platform designed around a simple belief:
 
 > Technology should serve humanity, not consume it.
 
----
-
-## About Me
-
-- 💻 Software Engineer
-- 🧠 Building AI-powered software with React, Next.js & TypeScript
-- 🔒 Passionate about privacy-first architecture
-- 🏗️ Designing modular, scalable software systems
-- 📍 Alvarado, Texas
+Rather than building another chatbot, Eyr explores how AI can become a trusted, long-term companion while keeping the user's data private, portable, and under their control.
 
 ---
 
-## Current Project
+## Engineering Interests
 
-### Eyr
-
-Eyr is a local-first AI platform focused on:
-
-- Privacy-first AI
-- Identity continuity
-- User-owned data
-- Intelligent automation
-- Modular architecture
-- Personal AI assistants
-- Local computing
+- Artificial Intelligence
+- Local-First Software
+- Privacy-First Architecture
+- Distributed Systems
+- Product Engineering
+- Modern Web Development
+- Human-Centered Computing
 
 ---
 
-## Technologies
+## Current Tech Stack
 
 ### Languages
 
@@ -64,28 +56,44 @@ Eyr is a local-first AI platform focused on:
 
 ---
 
-## Currently Learning
+## Featured Project
 
-- Advanced AI Architecture
-- Distributed Systems
-- Local-first Computing
-- Machine Learning
-- Apple Development
-- Linux
+### Eyr
+
+Eyr is an ongoing software engineering project focused on building a modular AI platform from first principles.
+
+Current areas of development include:
+
+- Identity & Memory Systems
+- Authorization & Policy Engine
+- Local Data Architecture
+- Context Management
+- Modular AI Components
+- Personal Knowledge Systems
+- AI-Assisted Development Workflows
 
 ---
 
-## Philosophy
+## Engineering Philosophy
 
-I enjoy building software that lasts.
+I enjoy solving difficult engineering problems through thoughtful architecture rather than unnecessary complexity.
 
-I believe great engineering starts with thoughtful architecture, maintainable code, and products that genuinely improve people's lives.
+I believe software should be:
+
+- Maintainable
+- Modular
+- Transparent
+- Privacy Respecting
+- Built to evolve over decades
 
 ---
 
-## Let's Connect
+## Currently
 
-- LinkedIn *(coming soon)*
-- Portfolio *(coming soon)*
+- Building Eyr
+- Expanding my AI engineering skills
+- Looking for opportunities to build products that solve meaningful problems
 
-Thanks for stopping by.
+---
+
+Thanks for visiting my profile.
